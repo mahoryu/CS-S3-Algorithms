@@ -44,7 +44,7 @@ The later problems get progressively more difficult, especially when it comes to
 
 ### Writing Better Solutions
 
-For the Module 4 project, your main objective is to work on improving at least two of your first-pass solutions from Module 3. In particular, for one of your first-pass solutions, assess the runtime and space complexity of the implementation, think about why it's inefficient and how it could be improved, then implement the improved solution. 
+For the Module 4 project, your main objective is to work on improving at least two of your first-pass solutions from Module 3. In particular, for one of your first-pass solutions, assess the runtime and space complexity of the implementation, think about why it's inefficient and how it could be improved, then implement the improved solution.
 
 ## Resources
 
