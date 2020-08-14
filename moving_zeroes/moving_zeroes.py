@@ -21,6 +21,9 @@ def moving_zeroes(arr):
             arr[i] = 0
         return arr
 
+#TODO Try it with a separate array instead of using the single array
+# arr + ([0] * count) Heavy on space low on time
+
 
 if __name__ == '__main__':
     # Use the main function here to test out your implementation

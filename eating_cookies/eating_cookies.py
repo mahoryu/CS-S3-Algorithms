@@ -11,9 +11,9 @@ def eating_cookies(n):
     elif n == 2:
         return 2
     else:
-        return eating_cookies(n - 3) +eating_cookies(n - 2) +eating_cookies(n - 1)
+        return eating_cookies(n - 3) + eating_cookies(n - 2) + eating_cookies(n - 1)
 
-    pass
+    # TODO Memoization
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation

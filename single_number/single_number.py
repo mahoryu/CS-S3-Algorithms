@@ -10,6 +10,9 @@ def single_number(arr):
         if arr.count(item) == 1:
             return item
 
+# TODO Try not using count and make it faster (dictionary?)
+# declare seen
+
 if __name__ == '__main__':
     # Use the main function to test your implementation
     arr = [1, 1, 4, 4, 5, 5, 3, 3, 9, 0, 0]
